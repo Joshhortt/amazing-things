@@ -14,7 +14,7 @@ _Practice using arrays in JavaScript._
 
 _Create a Project web-page where a user can answer questions about themselves_,<br/>
 _After completing the survey the user clicks the button **Show me** and it_<br/>
-_Sdisplays a List of their previous answers_.
+_displays a List of their previous answers_.
 
 
 ## Setup/Installation Requirements
